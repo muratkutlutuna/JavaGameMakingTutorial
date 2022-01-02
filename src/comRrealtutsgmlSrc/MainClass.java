@@ -1,4 +1,4 @@
-package com.realtutsgml.src;
+package comRrealtutsgmlSrc;
 
 import javax.swing.JFrame;
 
