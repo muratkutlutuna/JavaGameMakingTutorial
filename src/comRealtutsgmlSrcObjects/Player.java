@@ -48,6 +48,7 @@ public class Player extends GlobalPosition{//burda hareketlerimizi ve resimleri 
 		}
 		
 		
+		
 	}
 	
 	public void keyPressed(KeyEvent e) {
